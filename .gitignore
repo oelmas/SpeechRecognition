@@ -203,7 +203,7 @@ cython_debug/
 .ionide
 
 
-.idea
+.idea/
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,jupyternotebooks,python
